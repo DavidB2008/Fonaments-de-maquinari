@@ -9,3 +9,4 @@
       * [Memorias](fonaments-de-maquinari/teoria/ra1-arquitectura-de-ordenadores/memorias.md)
       * [Memoria caché L1, L2 y L3](fonaments-de-maquinari/teoria/ra1-arquitectura-de-ordenadores/memoria-cache-l1-l2-y-l3.md)
       * [Almacenamiento HDD, SSD y NVMe](fonaments-de-maquinari/teoria/ra1-arquitectura-de-ordenadores/almacenamiento-hdd-ssd-y-nvme.md)
+      * [Refrigeración, almacenamiento, placa base](fonaments-de-maquinari/teoria/ra1-arquitectura-de-ordenadores/refrigeracion-almacenamiento-placa-base.md)
